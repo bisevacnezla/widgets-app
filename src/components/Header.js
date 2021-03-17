@@ -8,8 +8,6 @@ function Header() {
             <Link href="/list" className="item">List</Link>
             <Link href="/dropdown" className="item">Dropdown</Link>
             <Link href="/translate" className="item">Translate</Link>
-
-
         </div>
     )
 }
